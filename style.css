@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+h1{
+    color: white;
+    background-color: rgb(150, 178, 230);
+    text-align: center;
+    padding: 3% 4%;
+    margin-top: 0%;
+}
+
+.btn {
+    font-size: 1.3rem;
+    text-decoration:none;
+    padding: 6px 5px;
+    display: block;
+    margin: 5px 0;
+    border-radius: .3rem;
+    color: black;
+    border: none;
+    outline: none;
+    background-color:lightslategray;
+}
+
+.col-md-9{
+float: right;
+
+}
+
+#current-weather{
+    border: solid;
+    padding: 1em;
+    line-height: 2.6;
+
+}
